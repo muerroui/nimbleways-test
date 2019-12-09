@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nimbleways-test/static/css/main.56f28b58.chunk.css",
+    "main.js": "/nimbleways-test/static/js/main.bf7f276e.chunk.js",
+    "main.js.map": "/nimbleways-test/static/js/main.bf7f276e.chunk.js.map",
+    "runtime-main.js": "/nimbleways-test/static/js/runtime-main.a17ef227.js",
+    "runtime-main.js.map": "/nimbleways-test/static/js/runtime-main.a17ef227.js.map",
+    "static/css/2.7ec00178.chunk.css": "/nimbleways-test/static/css/2.7ec00178.chunk.css",
+    "static/js/2.3c8e191c.chunk.js": "/nimbleways-test/static/js/2.3c8e191c.chunk.js",
+    "static/js/2.3c8e191c.chunk.js.map": "/nimbleways-test/static/js/2.3c8e191c.chunk.js.map",
+    "index.html": "/nimbleways-test/index.html",
+    "precache-manifest.3c7afabf68030c117f17ddaa0aa73dd4.js": "/nimbleways-test/precache-manifest.3c7afabf68030c117f17ddaa0aa73dd4.js",
+    "service-worker.js": "/nimbleways-test/service-worker.js",
+    "static/css/2.7ec00178.chunk.css.map": "/nimbleways-test/static/css/2.7ec00178.chunk.css.map",
+    "static/css/main.56f28b58.chunk.css.map": "/nimbleways-test/static/css/main.56f28b58.chunk.css.map",
+    "static/js/2.3c8e191c.chunk.js.LICENSE": "/nimbleways-test/static/js/2.3c8e191c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a17ef227.js",
+    "static/css/2.7ec00178.chunk.css",
+    "static/js/2.3c8e191c.chunk.js",
+    "static/css/main.56f28b58.chunk.css",
+    "static/js/main.bf7f276e.chunk.js"
+  ]
+}
